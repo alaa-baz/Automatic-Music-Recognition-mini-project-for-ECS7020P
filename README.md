@@ -1,4 +1,4 @@
-# Automatic-Music-Recognition-Machine-learning
+# Automatic Music Recognition (Machine learning)
 
 This project used machine learning to detect music recognition automatically by using the MLEnd Hums and Whistles dataset. This dataset has hums and whistles for some famous songs. For more information, you can find this dataset at https://www.kaggle.com/datasets/jesusrequena/mlend-hums-and-whistles.
 
